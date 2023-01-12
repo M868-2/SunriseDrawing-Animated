@@ -2,6 +2,7 @@
 // SET UP THE CANVAS AND GRAPHICS CONTEXT
 let cnv = document.getElementById("canv");
 let ctx = cnv.getContext("2d");
+
 cnv.width = 800;
 cnv.height = 600;
 
